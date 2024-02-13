@@ -1,0 +1,52 @@
+.width-85 {
+  width: 85%;
+}
+.rounded-search {
+  border-radius: 30px !important;
+}
+.form-control {
+  padding: 6px 12px 6px 36px !important;
+}
+.search {
+  font-size: 14px;
+  position: absolute;
+  left: 60px;
+  top: 10px;
+}
+.fs-26 {
+  font-size: 26px;
+}
+.fs-20 {
+  font-size: 20px;
+}
+.rdxDot {
+  position: absolute;
+  top: 0px;
+  right: -5px;
+}
+.badge:empty {
+  display: block !important;
+}
+.bi-plus-circle-fill {
+  color: #00bcd4 !important;
+}
+.dropstart .dropdown-menu[data-bs-popper] {
+  top: 47px !important;
+  right: 0px !important;
+  left: auto !important;
+  margin-top: 0 !important;
+}
+.fs-45 {
+  font-size: 45px;
+}
+.toggle {
+  color: #00bcd4 !important;
+}
+.darkmode {
+  background-color: #1a1a1a !important;
+  color: #fff !important;
+}
+.lightmode {
+  background-color: #fff !important;
+  color: #000 !important;
+}

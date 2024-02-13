@@ -1,0 +1,66 @@
+.card-icon {
+  width: 50px;
+  height: 50px;
+  background-color: #eed2f3de;
+  border-radius: 50%;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.color-mobile {
+  color: #e743b3 !important;
+}
+.color-web {
+  color: #2196f3 !important;
+}
+.color-drone {
+  color: #434ee7 !important;
+}
+.color-marketing {
+  color: #ff9900 !important;
+}
+.mn-2 {
+  margin-right: -10px;
+  z-index: 2;
+}
+.accordion {
+  --bs-accordion-border-color: none !important;
+}
+.accordion-button::after {
+  background-image: none !important;
+}
+.accordion-button:focus {
+  box-shadow: none !important;
+}
+.web {
+  background-color: #82b3ed9c !important;
+}
+.drone {
+  background-color: #9b82ed96 !important;
+}
+.marketing {
+  background-color: #edc282cc !important;
+  color: #edc282cc !important;
+}
+.accordion-button,
+.accordion-body {
+  background-color: #436cb30a !important;
+}
+.darkmode {
+  background-color: #1a1a1a !important;
+  color: #fff !important;
+}
+.lightmode {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.list-type-disc {
+  list-style-type: circle;
+}
+.pink {
+  color: #e743b3;
+}
+.form-check-input:checked {
+  background-color: gray !important;
+  border-color: #000 !important;
+}
